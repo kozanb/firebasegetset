@@ -1,0 +1,22 @@
+{
+  "name": "firebasegetset",
+  "version": "1.0.0",
+  "description": "Simple Firebase Realtime Database Get-Set Data Script For React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kozanb/firebasegetset.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kozanb/firebasegetset/issues"
+  },
+  "homepage": "https://github.com/kozanb/firebasegetset#readme",
+  "dependencies": {
+    "firebase": "^8.2.1"
+  }
+}
