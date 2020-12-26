@@ -22,7 +22,7 @@ export default class Example extends Component {
   }
 
   get(id) {
-    //Tips: Using email as id can be useful
+    //Tips: Using email as id can be useful. You can use any data as what you want.
     Database.getData('Users/', id).then(data => {
       console.log(data);
     });
